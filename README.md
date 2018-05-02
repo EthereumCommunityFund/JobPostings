@@ -1,4 +1,4 @@
-# JobPostings
+# ECF Job Postings
 ECF internal and external job postings
 
 ## How to create a job posting
