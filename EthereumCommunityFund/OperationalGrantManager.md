@@ -2,7 +2,7 @@
 
 Add information for this job posting.
 
-* responsibilities
+## responsibilities
 
 
 - Work closely with ECF members and other grant manager(s) to define ECF's strategy and governance structure
@@ -14,7 +14,7 @@ Add information for this job posting.
 - Form strategic partnership with aligned projects and initiatives 
 - Be an ambassador of ECF and promote ECF to the broader Ethereum community 
 
-* requirements
+## requirements
 
 
 - Strong organizational and leadership skills
@@ -24,5 +24,5 @@ Add information for this job posting.
 - Deep involvement and wide network in the developer community 
 
 
-* compensation
+## compensation
 $150k-$200k
