@@ -21,7 +21,7 @@ Add information for this job posting.
 - A team player, able to collaborate with a diverse group of stakeholders 
 - Passionate about blockchain and Ethereum technology 
 - Have a good understanding of the critical challenges in the current Ethereum ecosystem 
-- Deep involvement and wide network in the developer community 
+- Deep involvement and wide network in the Ethereum developer community 
 
 
 ## compensation
