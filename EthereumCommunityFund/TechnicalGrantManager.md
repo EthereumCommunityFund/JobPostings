@@ -1,4 +1,7 @@
 
+## What we are looking for
+We are looking for grant manager with deep technical knowledge of the Ethereum ecosystem. You'll be driving the grantee selection and post funding monitoring process. 
+
 ## Responsibilities
 
 - Proactively identify and source projects that promote the Ethereum ecosystem growth 
@@ -6,8 +9,6 @@
 - Design and implement ECF's grants evaluation pipeline and criteria 
 - Evaluate grantee applications following the defined framework 
 - Set and implement grantee success metrics 
-- Provide grantee support post-funding and match them with the resources and mentors they need
-- Form strategic partnership with aligned projects and initiatives 
 - Be an ambassador of ECF and promotes ECF to the broader Ethereum developer community
 
 
