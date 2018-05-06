@@ -29,4 +29,8 @@ We are looking for grant manager with deep technical knowledge of the Ethereum e
 
 
 ## Compensation
-$150k-$200k
+
+## Location
+
+
+
