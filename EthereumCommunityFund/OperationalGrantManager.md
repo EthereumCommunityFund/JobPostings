@@ -1,11 +1,14 @@
-# TODO
 
-Add information for this job posting.
+## Who we are
 
-## responsibilities
+The Ethereum Community Fund (ECF) is a non-profit  grant program founded by core projects in the Ethereum ecosystem including OmiseGo, Cosmos, Golem, MakerDao, Web3 Foundation, Raiden, and Status. The aim of ECF is to provide both funding and connectivity, while shaping the strategic direction of the space towards mainstream adoption through the development of infrastructure and compelling end-user applications.
 
+## What are are looking for 
+We are looking for a grant manager with the focus of operations and business development. 
 
-- Work closely with ECF members and other grant manager(s) to define ECF's strategy and governance structure
+## Responsibilities
+
+- Work closely with ECF board members and other grant manager(s) to define ECF's strategy and governance structure
 - Proactively identify and source projects that promote the Ethereum ecosystem growth 
 - Design and implement ECF's grants evaluation pipeline and criteria 
 - Set and implement grantee success metrics
@@ -14,8 +17,7 @@ Add information for this job posting.
 - Form strategic partnership with aligned projects and initiatives 
 - Be an ambassador of ECF and promote ECF to the broader Ethereum community 
 
-## requirements
-
+## Requirements
 
 - Strong organizational and leadership skills
 - A team player, able to collaborate with a diverse group of stakeholders 
@@ -24,5 +26,5 @@ Add information for this job posting.
 - Deep involvement and wide network in the Ethereum developer community 
 
 
-## compensation
+## Compensation
 $150k-$200k
