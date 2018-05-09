@@ -17,7 +17,7 @@ As well as having a reputable and highly visible role in the industry, you will 
 * Organizing online and in person meetings with multiple stakeholders across different time zones
 
 ## You might be a fit if you are...
-* 2+ years work experience in a fast-paced environment in the tech industry 
+* 1+ years work experience in a fast-paced environment in the tech industry 
 * Passionate about the potential and future of decentralized technologies and blockchains
 * An excellent communicator, both written and verbal 
 * Highly organized and detail-oriented
@@ -27,7 +27,7 @@ As well as having a reputable and highly visible role in the industry, you will 
 * Open for travelling - sometimes on short notice, every time to an exciting location :)
 
 ## Compensation 
-* $80-$120k 
+* $70-$110k 
 
 ## Location 
 San Francisco Bay Area
