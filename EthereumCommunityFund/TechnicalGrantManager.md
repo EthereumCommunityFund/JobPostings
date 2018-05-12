@@ -29,6 +29,9 @@ We are looking for grant manager with deep technical knowledge of the Ethereum e
 
 ## Location
 
-The ideal candidate is located in one of the many Ethereum hubs: San Francisco, New York, Berlin, London, or Toronto  
+The ideal candidate is located in one of the many Ethereum hubs: San Francisco, New York, Berlin, London, or Toronto 
+
+## Compensation 
+$150-$200k 
 
 
