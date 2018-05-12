@@ -26,3 +26,7 @@ We are looking for a technical analyst with deep knowledge in Ethereum technolog
 
 ## Location
 Remote ok
+
+
+## Compensation
+$120k - $160k
