@@ -27,7 +27,7 @@ As well as having a reputable and highly visible role in the industry, you will 
 * Open for travelling - sometimes on short notice, every time to an exciting location :)
 
 ## Compensation 
-* $70-$110k 
+* $85-$110k 
 
 ## Location 
 San Francisco Bay Area
