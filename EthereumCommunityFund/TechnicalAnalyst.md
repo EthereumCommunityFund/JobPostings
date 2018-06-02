@@ -29,4 +29,4 @@ Remote ok
 
 
 ## Compensation
-$120k - $160k
+$100k - $150k
