@@ -3,7 +3,7 @@ The Ethereum Community Fund (ECF) is a non-profit grant program founded by core 
 
 ## What we are looking for
 
-We are looking for a technical analyst with deep knowledge in Ethereum technology and various developer toolings. As a technical analyst, you will be very involved with the grantee selection process, conducting due diligence to ensure ECF's grant program selects the highest-quality projects working on the right problems. In addition, you will be helping with mapping out the key technical challenges and developer “pain points” in the Ethereum ecosystem to guide the grant selection criteria.
+We are looking for a technical analyst with deep knowledge in Ethereum technology and various developer toolings. As a technical analyst, you will be very involved with the grantee selection process, conducting due diligence on various projects to ensure that ECF's grant program selects the highest-quality projects working on the right problems. In addition, you will be helping with mapping out the key technical challenges and developer pain points in the Ethereum ecosystem to guide the grant selection priorities.
 
 ## Responsibilities
 
@@ -11,16 +11,15 @@ We are looking for a technical analyst with deep knowledge in Ethereum technolog
 - Design ECF's grants’ evaluation pipeline and criteria
 - Evaluate grantee applications utilizing the defined framework
 - Conduct due diligence research on grant applicants and their projects
-- Design and implement post-funding project metrics
-- Continuous monitoring a project's progress and metrics post-funding
+- Design and implement success metrics for project ECF funded
+- Continuously monitor a project's progress and metrics post-funding
 
 ## Requirements
 
 - Passionate about blockchain and Ethereum technology
-- A team player able to collaborate with a diverse group of stakeholders
-- Have a deep understanding of the critical technical challenges in the current Ethereum ecosystem
-- Have a deep technical understanding of how Ethereum and its various scalability solutions work
-- Familiar with various developer tooling for DApp development
+- Have a deep understanding of how Ethereum and its various scalability solutions work
+- Familiar with Ethereum stack (EVM, eWASM Geth, Web3, RPC, Solidity)
+- Closely follow new technical trends and advancement in the Ethereum ecosystem
 - The ability to evaluate technical proposals and their feasibility in the blockchain domain
 - Deep involvement and wide network in the Ethereum developer community
 
