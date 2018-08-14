@@ -39,3 +39,7 @@ Full-time
 
 ## Location
 Remote ok
+
+## How to apply
+Please email your resume along with a short cover letter explaining why you are interested in ECF and why you would be a good fit to the role to info@ecf.network.
+
