@@ -33,3 +33,9 @@ What you will be working on
 - Experience engaging multiple audiences gathering their feedback, build relationships, create content and partnerships, grow the community
 - Previous experience working closely with developers
 - Previous experience in content management, community management, marketing management, and business development
+
+## Job Type
+Full-time
+
+## Location
+Remote ok
