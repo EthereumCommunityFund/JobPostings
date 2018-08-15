@@ -42,10 +42,8 @@ You will be working with a multi-cultural team of people from all backgrounds, s
 Remote ok
 
 ## Job type
-Part-time
+Part-time or full-time
 
-## Compensation 
-$20k-$40k/year, 20 hours/week
 
 
 ## How to apply
