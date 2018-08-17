@@ -1,3 +1,6 @@
+## Title
+Community, Growth and Partnership 
+
 ## Who we are
 The Ethereum Community Fund (ECF) is a non-profit grant program founded by the most prominent projects in the Ethereum and Ethereum-adjacent ecosystem including OmiseGo, Cosmos, Golem, MakerDao, and Web3 Foundation. The aim of ECF is to provide both funding and connectivity while shaping the strategic direction of the space towards mainstream adoption through the development of infrastructure and compelling end-user applications.
 
